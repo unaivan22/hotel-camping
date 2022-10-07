@@ -1,6 +1,8 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 
+import MainRoom from './data/MainRoom'
+
 
 export default function Home() {
   return (
@@ -34,24 +36,7 @@ export default function Home() {
                 <button className="hover:bg-rose-900 text-white font-bold py-4 px-8 rounded-full w-fit bg-rose-600">View All</button>
             </div>
 
-            <div className='grid xl:grid-cols-3 lg:grid-cols-3 md:grid-cols-1 sm:grid-cols-1 xs:grid-cols-1 gap-6'>
-                <div class="rounded-3xl overflow-hidden shadow-lg">
-                    <img class="w-full" src="https://images.unsplash.com/photo-1445019980597-93fa8acb246c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80" alt="Sunset in the mountains" />
-                    <div class="px-6 p-4">
-                        <div class="font-bold text-2xl mb-2">Single Room</div>
-                        <p class="text-gray-700 text-base">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    </div>
-                    <div class="px-6 pt-4 pb-2">
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">2 Guest</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">1 Bed</span>
-                    </div>
-                    <div className='flex items-center justify-between px-4 pb-4 pt-3 border-t border-zinc-200'>
-                        <p className='font-bold text-dark text-2xl'>Rp 150.000<span className='text-base font-light text-zinc-600'> /night</span> </p>
-                        <button className="hover:bg-rose-900 text-white font-bold py-4 px-8 rounded-full w-fit bg-rose-600">Book Now</button>
-                    </div>
-                </div>
-
-            </div>
+            <MainRoom />
         </section>
     </div>
   )

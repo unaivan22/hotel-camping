@@ -1,0 +1,26 @@
+{
+    "RoomSelected": [
+        {
+            "roomTitle" : "Single Room",
+            "image" : "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80",
+            "link" : "/project/peken",
+            "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "gues" : "2",
+            "bed" : "1",
+            "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
+            "price" : "150.000"
+        }
+    ], 
+    "Proj": [
+        {
+            "id" : "21",
+            "client" : "Petrokimia Gresik",
+            "projectname" : "Warehouse Management System (WMS) - Maintenance",
+            "status" : "Case Study In Progress",
+            "image" : "assets/media/projects/petrokimia/wms - maintenance/mobile/wms-maintenance.webp",
+            "link" : "on-progress",
+            "emptylink" : "disabled-link",
+            "bg" : "bg-case-in-progress"
+        }
+    ]
+    }
