@@ -6,6 +6,7 @@ module.exports = {
   theme: {
     backgroundImage: {
       'bghero': "linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5) ), url('https://assets.website-files.com/61f981dc0f719d75a5d78239/61f9b2922979d5273f91fffc_home-hero-image-rental-webflow-ecommerce-template.jpg')",
+      'bgroom': "linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5) ), url('https://assets.website-files.com/61f981dc0f719d75a5d78239/61fdb03636bc8731f4c3ca10_rooms-hero-bg-image-rental-webflow-ecommerce-template.jpg')",
     },
     extend: {},
     screens: {
