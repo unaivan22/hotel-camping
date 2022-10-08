@@ -18,8 +18,7 @@ export default function AllRoom() {
                         Non consectetur a erat nam at lectus urna duis convallis molestie nunc non blandit massa ut etiam sit amet nisl.
                     </p>
                     <div className='flex items-center justify-center gap-x-6 mt-12'>
-                          <button className="hover:bg-rose-700 text-white font-bold py-6 px-8 rounded-full w-fit text-lg bg-rose-600">Explore Room</button>
-                          <button className="bg-white hover:bg-white text-black font-bold py-6 px-8 rounded-full text-lg w-fit">About Us</button>
+                          <Link to="/" className="hover:bg-rose-700 text-white font-bold py-6 px-8 rounded-full w-fit text-lg bg-rose-600">Back to Home </Link>
                     </div>
                 </div>
             </div>

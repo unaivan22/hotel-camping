@@ -3,6 +3,7 @@ import data from './data.json'
 
 import { BiBed } from 'react-icons/bi';
 import {MdPersonOutline} from 'react-icons/md';
+import {GiExpand} from 'react-icons/gi'
 
 class Rooms extends Component {
 	render() {
@@ -19,11 +20,15 @@ class Rooms extends Component {
                                 <div class="px-6 pt-4 pb-4">
                                     <span class="bg-gray-200 rounded-full px-6 py-3 text-sm font-semibold text-gray-700 mr-2 mb-2 inline-flex items-center mr-2">
                                         <MdPersonOutline className='mr-2' fontSize="1.5em" />
-                                        {roomSelected.gues} Guest
+                                        {roomSelected.gues}
                                     </span>
                                     <span class="bg-gray-200 rounded-full px-6 py-3 text-sm font-semibold text-gray-700 mr-2 mb-2 inline-flex items-center mr-2">
                                         <BiBed className='mr-2' fontSize="1.5em" />
-                                        {roomSelected.bed} Bedroom
+                                        {roomSelected.bed}
+                                    </span>
+                                    <span class="bg-gray-200 rounded-full px-6 py-3 text-sm font-semibold text-gray-700 mr-2 mb-2 inline-flex items-center mr-2">
+                                        <GiExpand className='mr-2' fontSize="1.5em" />
+                                        {roomSelected.wide}
                                     </span>
                                 </div>
                                 <div className='flex items-center justify-between px-4 pb-4 pt-3 border-t border-zinc-200'>

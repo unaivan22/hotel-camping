@@ -2,31 +2,34 @@
     "RoomSelected": [
         {
             "roomTitle" : "Single Cabin",
-            "image" : "https://assets.website-files.com/61f981dc0f719d7071d7826c/61fab42953ed1e5593e67f1e_single-rustic-cabin-thumbnail-image-rental-webflow-ecommerce-template.jpg",
+            "image" : "/media/single.jpg",
             "link" : "/project/peken",
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "2",
             "bed" : "1",
+            "wide" : "100",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "150.000"
         },
         {
             "roomTitle" : "Duo Cabin Room",
-            "image" : "https://assets.website-files.com/61f981dc0f719d7071d7826c/61fab3f291bb02e0b8c74672_duo-rustic-cabin-thumbnail-image-rental-webflow-ecommerce-template.jpg",
+            "image" : "/media/duo.jpg",
             "link" : "/project/peken",
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "4",
             "bed" : "2",
+            "wide" : "100",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "270.000"
         },
         {
             "roomTitle" : "Duplex Cabin",
-            "image" : "https://assets.website-files.com/61f981dc0f719d7071d7826c/61fab3bb7f56d81a16e66d2f_duplex-rustic-cabin-thumbnail-image-rental-webflow-ecommerce-template.jpg",
+            "image" : "/media/duplex.jpg",
             "link" : "/project/peken",
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "4",
             "bed" : "2",
+            "wide" : "100",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "290.000"
         }
@@ -34,61 +37,67 @@
     "RoomAll": [
         {
             "roomTitle" : "Single Cabin",
-            "image" : "https://assets.website-files.com/61f981dc0f719d7071d7826c/61fab42953ed1e5593e67f1e_single-rustic-cabin-thumbnail-image-rental-webflow-ecommerce-template.jpg",
+            "image" : "/media/single.jpg",
             "link" : "/project/peken",
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "2",
             "bed" : "1",
+            "wide" : "100",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "150.000"
         },
         {
             "roomTitle" : "Duo Cabin Room",
-            "image" : "https://assets.website-files.com/61f981dc0f719d7071d7826c/61fab3f291bb02e0b8c74672_duo-rustic-cabin-thumbnail-image-rental-webflow-ecommerce-template.jpg",
+            "image" : "/media/duo.jpg",
             "link" : "/project/peken",
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "4",
             "bed" : "2",
+            "wide" : "100",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "270.000"
         },
         {
             "roomTitle" : "Duplex Cabin",
-            "image" : "https://assets.website-files.com/61f981dc0f719d7071d7826c/61fab3bb7f56d81a16e66d2f_duplex-rustic-cabin-thumbnail-image-rental-webflow-ecommerce-template.jpg",
+            "image" : "/media/duplex.jpg",
             "link" : "/project/peken",
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "4",
             "bed" : "2",
+            "wide" : "100",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "290.000"
         },
         {
             "roomTitle" : "Family Cabin Room",
-            "image" : "https://assets.website-files.com/61f981dc0f719d7071d7826c/61fab338d4c69df2bc8dbf27_family-rustic-cabin-thumbnail-image-rental-webflow-ecommerce-template.jpg",
+            "image" : "/media/family.jpg",
             "link" : "/project/peken",
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "8",
             "bed" : "4",
+            "wide" : "100",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "470.000"
         },
         {
             "roomTitle" : "Micro Cabin Room",
-            "image" : "https://assets.website-files.com/61f981dc0f719d7071d7826c/61fab2acecb1086f15375a09_micro-rustic-cabin-thumbnail-image-rental-webflow-ecommerce-template.jpg",
+            "image" : "/media/micro.jpg",
             "link" : "/project/peken",
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "1",
             "bed" : "1",
+            "wide" : "100",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "90.000"
         },
         {
             "roomTitle" : "Triple Cabin Room",
-            "image" : "https://assets.website-files.com/61f981dc0f719d7071d7826c/61fab10461aa16316c74d1e9_family-duo-rustic-cabin-thumbnail-image-rental-webflow-ecommerce-template.jpg",
+            "image" : "/media/triple.jpg",
             "link" : "/project/peken",
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "3",
             "bed" : "1",
+            "wide" : "100",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "199.000"
         }
