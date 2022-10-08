@@ -11,14 +11,20 @@ class MainRoom extends Component {
                 { data.RoomSelected.map((roomSelected, i) => {
 						return (
                             <div class="rounded-3xl overflow-hidden shadow-lg">
-                                <img class="w-full" src={roomSelected.image} alt="Sunset in the mountains" />
+                                <img class="w-full transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 h-max overflow-hidden" src={roomSelected.image} alt="Sunset in the mountains" />
                                 <div class="px-6 p-4">
                                     <div class="font-bold text-2xl mb-2">{roomSelected.roomTitle}</div>
                                     <p class="text-gray-700 text-base">{roomSelected.desc}</p>
                                 </div>
-                                <div class="px-6 pt-4 pb-2">
-                                    <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"> <MdPersonOutline /> {roomSelected.gues} Guest</span>
-                                    <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><BiBed />{roomSelected.bed} Bed</span>
+                                <div class="px-6 pt-4 pb-4">
+                                    <span class="bg-gray-200 rounded-full px-6 py-3 text-sm font-semibold text-gray-700 mr-2 mb-2 inline-flex items-center mr-2">
+                                        <MdPersonOutline className='mr-2' fontSize="1.5em" />
+                                        {roomSelected.gues} Guest
+                                    </span>
+                                    <span class="bg-gray-200 rounded-full px-6 py-3 text-sm font-semibold text-gray-700 mr-2 mb-2 inline-flex items-center mr-2">
+                                        <BiBed className='mr-2' fontSize="1.5em" />
+                                        {roomSelected.bed} Bedroom
+                                    </span>
                                 </div>
                                 <div className='flex items-center justify-between px-4 pb-4 pt-3 border-t border-zinc-200'>
                                     <p className='font-bold text-dark text-2xl'>Rp {roomSelected.price}<span className='text-base font-light text-zinc-600'> /night</span> </p>

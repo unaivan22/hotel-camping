@@ -5,7 +5,7 @@ module.exports = {
   ],
   theme: {
     backgroundImage: {
-      'bghero': "url('https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80')",
+      'bghero': "linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5) ), url('https://assets.website-files.com/61f981dc0f719d75a5d78239/61f9b2922979d5273f91fffc_home-hero-image-rental-webflow-ecommerce-template.jpg')",
     },
     extend: {},
     screens: {
