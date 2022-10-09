@@ -15,7 +15,7 @@ export default function AllRoom() {
                         Rooms
                     </p>
                     <p className='xl:text-xl lg:text-xl md:text-3xl sm:text-lg text-lg xl:px-32 lg:px-24 md:px-12 xs:px-6 sm:px-6'>
-                        Non consectetur a erat nam at lectus urna duis convallis molestie nunc non blandit massa ut etiam sit amet nisl.
+                        The amazing place to relax, enjoy meditation training to praise mental health and wellness, also yoga that promote physical health
                     </p>
                     <div className='flex items-center justify-center gap-x-6 mt-12'>
                           <Link to="/" className="hover:bg-rose-700 text-white font-bold py-6 px-8 rounded-full w-fit text-lg bg-rose-600">Back to Home </Link>

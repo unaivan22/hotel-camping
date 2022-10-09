@@ -7,7 +7,7 @@
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "2",
             "bed" : "1",
-            "wide" : "100",
+            "wide" : "16",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "150.000"
         },
@@ -18,7 +18,7 @@
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "4",
             "bed" : "2",
-            "wide" : "100",
+            "wide" : "32",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "270.000"
         },
@@ -29,7 +29,7 @@
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "4",
             "bed" : "2",
-            "wide" : "100",
+            "wide" : "49",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "290.000"
         }
@@ -42,7 +42,7 @@
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "2",
             "bed" : "1",
-            "wide" : "100",
+            "wide" : "16",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "150.000"
         },
@@ -53,7 +53,7 @@
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "4",
             "bed" : "2",
-            "wide" : "100",
+            "wide" : "32",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "270.000"
         },
@@ -64,7 +64,7 @@
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "4",
             "bed" : "2",
-            "wide" : "100",
+            "wide" : "49",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "290.000"
         },
@@ -75,7 +75,7 @@
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "8",
             "bed" : "4",
-            "wide" : "100",
+            "wide" : "62",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "470.000"
         },
@@ -86,7 +86,7 @@
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "1",
             "bed" : "1",
-            "wide" : "100",
+            "wide" : "12",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "90.000"
         },
@@ -97,7 +97,7 @@
             "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
             "gues" : "3",
             "bed" : "1",
-            "wide" : "100",
+            "wide" : "32",
             "brief" : "To create services in increasing sales of Micro, Small and Medium Enterprises in Surabaya",
             "price" : "199.000"
         }
